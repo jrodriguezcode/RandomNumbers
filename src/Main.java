@@ -1,3 +1,4 @@
+// Special thanks to Bro Code for his videos
 import java.util.Random;
 
 public class Main {
